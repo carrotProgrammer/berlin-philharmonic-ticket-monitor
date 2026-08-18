@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+state.json
+state.json.tmp
+logs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/

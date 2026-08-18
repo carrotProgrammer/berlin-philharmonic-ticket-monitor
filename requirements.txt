@@ -1,0 +1,4 @@
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+playwright>=1.50,<2
+winotify>=1.1,<2; platform_system == "Windows"
